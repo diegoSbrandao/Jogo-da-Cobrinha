@@ -2,7 +2,7 @@
 ​    
 
 
-## 🚀 Projeto feito durante o Bootcamps "HTML Web Developer" da Digital Innovation One.
+## 🚀 Projeto feito durante o Bootcamp "HTML Web Developer" da Digital Innovation One.
 
 
 
