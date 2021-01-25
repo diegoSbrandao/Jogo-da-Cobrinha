@@ -31,6 +31,9 @@
 
 <img src="imgmain.jpg">
 
+<p> Caso deseje ver o jogo em ação, assista o vídeo abaixo.</p>
+
+<a href="https://youtu.be/CmcusSxHm78" target="_blank">Clique aqui</a>
 
 
 
