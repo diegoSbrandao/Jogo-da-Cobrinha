@@ -4,10 +4,16 @@
 
 ## 🚀 Projeto feito durante o Bootcamp "HTML Web Developer" da Digital Innovation One.
 
+<img align="left" src="https://media.giphy.com/media/jCodV34MoczjW/giphy.gif" width="200" height="150"/>
 
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## 🛠 Linguagens:
 
@@ -24,6 +30,7 @@
 
 
 ##  💻Visualização:
+
 
 <img src="imgmain.jpg">
 
