@@ -9,8 +9,6 @@
 
 <img align="center" src="https://media.giphy.com/media/jCodV34MoczjW/giphy.gif" width="200" height="100"/>
 
-<br />
-
 
 ## 🛠 Linguagens:
 
