@@ -5,7 +5,7 @@
 ## 🚀 Projeto feito durante o Bootcamp "HTML Web Developer" da Digital Innovation One.
 
 <br />
-
+<br />
 
 <img align="center" src="https://media.giphy.com/media/jCodV34MoczjW/giphy.gif" width="200" height="100"/>
 
