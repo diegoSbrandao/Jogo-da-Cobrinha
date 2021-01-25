@@ -25,7 +25,7 @@
 
 ##  💻Visualização:
 
-<img src="/Projeto-Donkey%20kong/imgmain.jpg">
+<img src="imgmain.jpg">
 
 
 
